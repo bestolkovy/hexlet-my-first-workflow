@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![AzzRUBB](https://github.com/bestolkovy/hexlet-my-first-workflow/actions/workflows/hren.yml/badge.svg)](https://github.com/bestolkovy/hexlet-my-first-workflow/actions/workflows/hren.yml)
